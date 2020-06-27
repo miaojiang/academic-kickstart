@@ -19,6 +19,7 @@ If you are looking to buy an investment property, a condominium can be a great l
 Below is the information I have collected when helping my clients, **the data may be stale. Please have your real estate broker verify the information before making an offer**. 
 
 **Bellevue**
+
 | Name | Address | Rental cap? | Rental cap met? |
 |-------------|---------|-----------------|-------------------|
 | Bellevue Towers | 10700 NE 4th St, 500 106th Ave NE | Y | Y |
@@ -29,6 +30,7 @@ Below is the information I have collected when helping my clients, **the data ma
 | Unknown | 1709 134th Ave SE | Y | Y |
 
 **Redmond**
+
 | Name | Address | Rental cap? | Rental cap met? |
 |-------------|---------|-----------------|-------------------|
 | Frazer Court | 16275 NE 85th St | N | N/A |
@@ -36,6 +38,7 @@ Below is the information I have collected when helping my clients, **the data ma
 | Unknown | 16275 NE 85th St | N | N/A |
 
 **Seattle**
+
 | Name | Address | Rental cap? | Rental cap met? |
 |-------------|---------|-----------------|-------------------|
 | Avenue One | 2721 1st Ave | N | N/A |
@@ -59,6 +62,7 @@ Below is the information I have collected when helping my clients, **the data ma
 | Escala | 1920 4th Ave | Y | Y |
 
 **Renton**
+
 | Name | Address | Rental cap? | Rental cap met? |
 |-------------|---------|-----------------|-------------------|
 | Unknown | 611 SW 5th Ct  | N | N/A |
@@ -66,11 +70,13 @@ Below is the information I have collected when helping my clients, **the data ma
 | Creekside on Sunset | 3800 NE Sunset Blvd | Y | Y |
 
 **SeaTac**
+
 | Name | Address | Rental cap? | Rental cap met? |
 |-------------|---------|-----------------|-------------------|
 | Wedgewood Manor | 3425 S 176th St | N | N/A |
 
 **Kent**
+
 | Name | Address | Rental cap? | Rental cap met? |
 |-------------|---------|-----------------|-------------------|
 | Apple wood Lane | 708 6th Ave S Unit | N | N/A |
@@ -78,6 +84,7 @@ Below is the information I have collected when helping my clients, **the data ma
 | Bayview at the Lakes  | 23218 61st Place S  | Y | Y |
 
 **Tacoma**
+
 | Name | Address | Rental cap? | Rental cap met? |
 |-------------|---------|-----------------|-------------------|
 | 27th Street Station | 1102 S 27th St | N | N/A |
