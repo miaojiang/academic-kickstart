@@ -11,9 +11,9 @@
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
-  title = "Michael Jiang ｜ 西雅图华人房地场经纪人"
+  title = "Michael Jiang ｜ 西雅图华人房地产经纪人"
   [zh.params]
-    description = "Michael Jiang ｜ 西雅图华人房地场经纪人"
+    description = "Michael Jiang ｜ 西雅图华人房地产经纪人"
  # [[zh.menu.main]]
  #   name = "Wo"
  #   url = "#about"
