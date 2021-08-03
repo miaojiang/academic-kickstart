@@ -79,4 +79,4 @@ email: "mj@pellego.com"
 
 我的微信二维码：
 
-<img src="https://seattlepro.net/images/wechat.JPG " alt="" title="" width="200" height="200" />
+<img src="https://www.mi-fang.net/img/wechat.jpeg" alt="" title="" width="200" height="200" />

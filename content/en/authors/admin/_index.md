@@ -79,4 +79,4 @@ I initially became a real estate broker for my own transactions, but quickly rea
 
 I excel at working with both aspiring and expert real estate investors to find great investments and achieve their financial and life goals.
 
-I also own [Seattle Pro](https://www.seattlepro.net/) which is a boutique property management firm in Seattle.
+I also own a boutique property management firm in Seattle.
