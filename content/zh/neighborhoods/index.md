@@ -53,4 +53,4 @@ profile: false  # Show author profile?
 
 今天先写到这里，有问题欢迎联系。我的微信二维码：
 
-<img src="https://seattlepro.net/images/wechat.JPG " alt="" title="" width="200" height="200" />
+<img src="https://www.mi-fang.net/img/wechat.jpeg" alt="" title="" width="200" height="200" />
