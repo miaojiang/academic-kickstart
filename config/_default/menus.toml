@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Rental Caps"
-  url = "condo/"
+  name = "All-in-one Service"
+  url = "full/"
   weight = 20
 
 [[main]]
