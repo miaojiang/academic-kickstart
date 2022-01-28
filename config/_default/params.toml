@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mj@pellego.com"
+email = "mj@eastside.homes"
 phone = "206-486-0831"
 
 # Address

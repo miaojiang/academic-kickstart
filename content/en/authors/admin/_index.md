@@ -45,7 +45,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
  - icon: envelope
    icon_pack: fas
-   link: "mailto:mj@pellego.com"  # For a direct email link, use "mailto:test@example.org".
+   link: "mailto:mj@eastside.homes"  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -62,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mj@pellego.com"
+email: "mj@eastside.homes"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
